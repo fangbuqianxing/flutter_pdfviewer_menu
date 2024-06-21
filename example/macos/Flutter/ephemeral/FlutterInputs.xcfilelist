@@ -1195,6 +1195,7 @@
 /Users/tataufo/Desktop/github/flutter_pdfviewer_menu/lib/src/control/scroll_status.dart
 /Users/tataufo/Desktop/github/flutter_pdfviewer_menu/lib/src/control/single_page_view.dart
 /Users/tataufo/Desktop/github/flutter_pdfviewer_menu/lib/src/control/text_selection_menu.dart
+/Users/tataufo/Desktop/github/flutter_pdfviewer_menu/lib/src/control/text_selection_toolbar.dart
 /Users/tataufo/Desktop/github/flutter_pdfviewer_menu/lib/src/form_fields/pdf_checkbox.dart
 /Users/tataufo/Desktop/github/flutter_pdfviewer_menu/lib/src/form_fields/pdf_combo_box.dart
 /Users/tataufo/Desktop/github/flutter_pdfviewer_menu/lib/src/form_fields/pdf_form_field.dart
